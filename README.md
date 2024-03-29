@@ -2,5 +2,5 @@
 
 Prerequisites - create a terraform.tfvars file with the following variables :
 * pcc_url = "api.eu.prismacloud.io"
-* pcc_username = "<Insert Your Access Key>"
-* pcc_userpass = "<Insert Your Access Secret>"
+* pcc_username = "Your_Access_Key"
+* pcc_userpass = "Your_Access_Secret"
