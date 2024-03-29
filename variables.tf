@@ -1,6 +1,6 @@
 variable "pcc_url" {
   description = "Prisma Cloud Compute URL, use API format"
-  default = "api.eu.prismacloud.io"
+  default     = "api.eu.prismacloud.io"
 }
 
 variable "pcc_username" {
