@@ -6,11 +6,9 @@ variable "pcc_url" {
 variable "pcc_username" {
   description = "Prisma Cloud Access Key"
   sensitive   = true
-  
 }
 
 variable "pcc_userpass" {
   description = "Prisma Cloud Secret"
   sensitive   = true
-  
 }
